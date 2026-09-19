@@ -1,0 +1,6 @@
+{
+  "name": "PDF Editor",
+  "description": "Desktop-grade PDF editor featuring desktop canvas mode, image uploading, text and paragraph styling, page management, watermarks, auto-save, and interactive form builders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
